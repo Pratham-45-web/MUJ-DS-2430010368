@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+credentials.json
+*.pem
+venv/
+.venv/
+ESC-50.zip
+ESC-50-master/
+X_train.npy
+X_val.npy
+X_test.npy
+y_train.npy
+y_val.npy
+y_test.npy
+logs/
